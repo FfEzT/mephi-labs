@@ -1,0 +1,9 @@
+[submodule "src/dist/sfml"]
+	path = src/dist/sfml
+	url = https://github.com/SFML/cmake-sfml-project.git
+[submodule "src/dist/gtest"]
+	path = src/dist/gtest
+	url = https://github.com/google/googletest.git
+[submodule "src/dist/catch2"]
+	path = src/dist/catch2
+	url = https://github.com/catchorg/Catch2.git
